@@ -1,4 +1,4 @@
-# ⚛️ React by Building — 30 Mini React Projects
+# ⚛️ React from Scratch — 30 Mini React Projects
 
 This repository represents my journey of **learning React by building**, focusing on understanding component-based architecture, state management, hooks, lifecycle behavior, and routing — all through hands-on practice.
 
